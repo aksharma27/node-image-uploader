@@ -1,0 +1,19 @@
+1. Nodejs (Backend)
+
+Database :-
+1) MongoDB(Database)
+
+Packages/Modules :-
+1. Expressjs(framework based on nodejs)
+2. Mongoose (Object Data Modelling..ODM library)
+3. EJS template
+4. Multer --> a middleware for image uploading from form data
+5. express-ession (storing session messages)
+6. Dotenv (environment variables)
+7. Nodemon (Monitoring server)
+
+Frontend :-
+1. bootstrap (designing)
+2. Datatable (Pagination, Sorting, etc)
+3. Fontawesome (icons)
+
